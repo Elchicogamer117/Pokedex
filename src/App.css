@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+::-webkit-scrollbar-thumb{
+  background-color: orange;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar{
+  width: 20px;
+}
+
+.datoswh{
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
